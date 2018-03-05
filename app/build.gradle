@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.uowee.tangram.app"
+        applicationId "com.muse.tangram.app"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
